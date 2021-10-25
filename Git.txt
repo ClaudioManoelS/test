@@ -1,0 +1,16 @@
+git init
+git add .
+git status
+git commit -m "<descrição do commit>"
+git log
+
+git remote show
+git remote -v
+git remote add <apelido> <url>
+
+git push -u <apelido> <branch>
+git push -u <apelido> --all
+
+git clone <url>
+
+
